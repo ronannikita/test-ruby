@@ -1,2 +1,2 @@
 user = gets.chomp
-print "Bonjour, " +user
+print "Bonjour, " + user
